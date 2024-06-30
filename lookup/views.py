@@ -1,3 +1,4 @@
+#this is the view for lookup
 from django.shortcuts import render
 
 # Create your views here.
